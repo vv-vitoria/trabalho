@@ -1,0 +1,92 @@
+h1 {
+    color: purple;
+    font-size: 60px;
+    text-align: center;
+}
+
+body {
+    background-image: url(img/purple5.jpg);
+    background-size: auto;
+    background-attachment: fixed;
+}
+
+p {
+    font-size: 22px;
+    text-align: justify;
+    color: rgb(117, 14, 81);
+    font-style: oblique;
+}
+
+ul {
+    font-size: 20px;
+    list-style-image: url(img/heart_16x16.png);
+    
+}
+
+li {
+    color: purple;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+.lado {
+    display: flex;
+    align-items: flex-start;
+    gap: 40px;
+}
+
+.hobby {
+    border-radius: 50px;
+    display: flex;
+
+}
+
+h2 {
+    color: purple;
+    font-style: italic;
+    text-align: center;
+    font-size: 30px;
+}
+
+.linkedin:hover {
+    color: rgb(128, 0, 0);
+    text-decoration: none;
+}
+
+table {
+    border: 10px solid purple;
+    border-radius: 20px;
+    width: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+td {
+    padding: 20px;
+    text-align: center;
+    color: purple;
+}
+
+a {
+    color: purple;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.lado2 {
+    display: flex;
+    align-items: flex-start;
+}
+
+button {
+    background-color: purple;
+    color: white;
+    margin-left: 10px;
+    border-radius: 30px;
+}
+.botao {
+    display: flex;
+    align-items: center;
+}
